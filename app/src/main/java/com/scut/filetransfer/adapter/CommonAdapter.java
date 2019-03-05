@@ -27,6 +27,7 @@ public abstract class CommonAdapter<T> extends BaseAdapter {
 	@Override
 	public T getItem(int arg0) {
 		return list.get(arg0);
+
 	}
 
 	@Override
