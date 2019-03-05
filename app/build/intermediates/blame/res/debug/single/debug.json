@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_content_bg.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\content_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\ic_menu_send.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_file.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\select_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_bluetooth.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\page_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_folder.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\icon_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_cc_am.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\ic_menu_cc_am.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listbg.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\listbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_send.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\item_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_load.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\page_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_friendslist.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_main.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\icon_main.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_send.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\page_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_page_user.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\page_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_click.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\bg_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_time_dialog.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\select_time_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_list_item.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\file_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_start_conversation.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_load.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\item_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file_main.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\file_main.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gray.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\bg_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_afd.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\afd.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tx.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\ic_tx.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_excalmatory.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\excalmatory.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list_item.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\device_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radar.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\radar.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_file.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\item_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_email.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\user_email.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_name.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\user_name.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_main.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\splash_main.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_head.jpg.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\head.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_scan_activity.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\layout\\scan_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_exit_bg.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\scan_exit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_file.png.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable\\icon_file.png"
+    },
+    {
+        "merged": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.jpg.flat",
+        "source": "C:\\Users\\kejun\\Desktop\\FileTransfer\\app\\src\\main\\res\\drawable-xhdpi\\background.jpg"
+    }
+]
