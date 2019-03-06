@@ -1,167 +1,167 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-66:12
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
+		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:2:11-69
-	android:versionCode
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:6:6-77
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:6:18-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:3-65
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:21:22-77
+application
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:23:5-61:19
+	android:label
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:27:9-60
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:29:9-31:56
+	android:value
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:31:13-53
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:30:13-52
+activity#com.scut.filetransfer.activity.MainActivity
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:33:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.scut.filetransfer.activity.ActivityShowFile
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:41:19-60
+activity#com.scut.filetransfer.activity.ScanActivity
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:44:13-50
+activity#com.scut.filetransfer.activity.SelectFileActivity
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:47:9-74
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:47:19-62
+service#com.baidu.location.f
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:48:9-56:19
+	android:process
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:51:13-38
+	android:enabled
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:50:13-35
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:49:13-48
+intent-filter#action:name:com.baidu.location.service_v2.2
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:52:13-55:29
+action#com.baidu.location.service_v2.2
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:53:17-54:26
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:53:25-71
+service#com.scut.filetransfer.service.DownloadService
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:57:9-58:19
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:57:18-57
+service#com.scut.filetransfer.service.UploadService
+ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:59:9-60:19
+	android:name
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:59:18-55
 uses-sdk
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
-INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:15-44
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:7:5-47
+		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml
-permission#android.permission.BAIDU_LOCATION_SERVICE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:9:6-77
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:9:18-74
-uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:10:3-65
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:10:20-63
-uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:11:5-73
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:11:22-71
-uses-permission#android.permission.BAIDU_LOCATION_SERVICE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:12:5-81
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:12:22-78
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:13:5-81
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:13:22-78
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:14:5-67
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:14:22-64
-uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:15:5-84
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:15:22-81
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:16:5-76
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:16:22-73
-uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:17:5-76
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:17:22-73
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:18:5-79
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:18:22-76
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:19:5-75
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:19:22-72
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:20:5-79
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:20:22-76
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:21:5-81
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:21:22-78
-uses-permission#android.permission.ACCESS_MOCK_LOCATION
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:22:22-76
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:24:5-80
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:24:22-77
-application
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:26:5-64:19
-	android:label
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:29:9-41
-	android:icon
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:28:9-43
-	android:allowBackup
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:27:9-35
-	android:theme
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:31:9-40
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:30:9-60
-meta-data#com.baidu.lbsapi.API_KEY
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:32:9-34:56
-	android:value
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:34:13-53
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:33:13-52
-activity#com.scut.filetransfer.activity.MainActivity
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:35:9-43:20
-	android:label
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:37:13-45
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:36:13-50
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:38:13-42:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:39:17-69
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:39:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:41:17-77
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:41:27-74
-activity#com.scut.filetransfer.activity.ActivityShowFile
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:44:9-45:20
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:44:19-60
-activity#com.scut.filetransfer.activity.ScanActivity
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:46:9-49:20
-	android:screenOrientation
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:48:13-49
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:47:13-50
-activity#com.scut.filetransfer.activity.SelectFileActivity
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:50:9-74
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:50:19-62
-service#com.baidu.location.f
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:51:9-59:19
-	android:process
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:54:13-38
-	android:enabled
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:53:13-35
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:52:13-48
-intent-filter#action:name:com.baidu.location.service_v2.2
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:55:13-58:29
-action#com.baidu.location.service_v2.2
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:56:17-57:26
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:56:25-71
-service#com.scut.filetransfer.service.DownloadService
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:60:9-61:19
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:60:18-57
-service#com.scut.filetransfer.service.UploadService
-ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:62:9-63:19
-	android:name
-		ADDED from C:\Users\kejun\Desktop\FileTransfer\app\src\main\AndroidManifest.xml:62:18-55
