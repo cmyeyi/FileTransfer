@@ -1,6 +1,5 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:hyman="http://schemas.android.com/apk/res/com.scut.filetransfer"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:hyman="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -17,7 +16,6 @@
         android:layout_height="50dp"
         android:background="@drawable/content_bg"
         android:orientation="horizontal" >
-
         <com.scut.filetransfer.activity.ChangeColorIconWithText
             android:id="@+id/send"
             android:layout_width="0dp"
@@ -41,7 +39,6 @@
             hyman:color="#ff45c01a" />
         
         <com.scut.filetransfer.activity.ChangeColorIconWithText
-            android:visibility="gone"
             android:id="@+id/blueTooth"
             android:layout_width="0dp"
             android:layout_height="fill_parent"
@@ -53,7 +50,6 @@
             hyman:color="#ff45c01a" />
         
         <com.scut.filetransfer.activity.ChangeColorIconWithText
-            android:visibility="gone"
             android:id="@+id/user"
             android:layout_width="0dp"
             android:layout_height="fill_parent"

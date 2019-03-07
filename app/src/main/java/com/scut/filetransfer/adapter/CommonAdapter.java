@@ -1,5 +1,6 @@
 package com.scut.filetransfer.adapter;
 import java.util.List;
+import java.util.concurrent.ConcurrentHashMap;
 
 import android.content.Context;
 import android.view.View;
@@ -17,6 +18,8 @@ public abstract class CommonAdapter<T> extends BaseAdapter {
 		this.context = context;
 		this.list = list;
 		this.layoutId = layoutId;
+
+
 	}
 
 	@Override

@@ -38,7 +38,6 @@ public class ReceiveAdapter extends CommonAdapter<FileInfo> {
 		final Button btnButton = holder.getView(R.id.btnButton);
 		ProgressBar pbProgress = holder.getView(R.id.pbProgress);
 		//final TextView tvSpeed = holder.getView(R.id.tvSpeed);
-
 		tvFileName.setText(fileInfo.getFileName());
 		pbProgress.setMax(100);
 		pbProgress.setProgress(fileInfo.getFinished());

@@ -18,7 +18,7 @@ public class CommonViewHolder {
 
 	public CommonViewHolder(int position, Context context,ViewGroup parent, int layoutId) {
 		super();
-		sparseArray = new SparseArray<View>();
+		sparseArray = new SparseArray<>();
 		this.position = position;
 		this.context = context;
 		this.parent = parent;
