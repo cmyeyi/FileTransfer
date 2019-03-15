@@ -5,6 +5,7 @@ package com.scut.filetransfer.database;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.os.Environment;
 
 public class DBHelper extends SQLiteOpenHelper {
 	
@@ -28,5 +29,7 @@ public class DBHelper extends SQLiteOpenHelper {
 		db.execSQL(SQL_DROP);
 		db.execSQL(SQL_CREATE);
 	}
+
+
 
 }

@@ -22,7 +22,8 @@ public class UploadService extends Service{
 	public IBinder onBind(Intent arg0) {
 		return null;
 	}
-	
+
+
 	@Override
 	public void onDestroy() {
 		super.onDestroy();

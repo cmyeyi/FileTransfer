@@ -20,7 +20,6 @@ public class FileInfoDAOImpl implements FileInfoDAO {
 	
 	@Override
 	public boolean isExists(String IP, int Port, int fileInfoID) {
-		
 		SQLiteDatabase db = dbHelper.getReadableDatabase();
 		String sql = "select * from file_info where ip = ? and port = ? and file_id = ?";
 		Cursor cursor = db.rawQuery(sql, new String[]{IP,Port+"",fileInfoID+""});

@@ -9,12 +9,14 @@ import com.scut.filetransfer.service.SocketServer;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
@@ -49,8 +51,19 @@ public class MainActivity extends FragmentActivity implements
 		new Thread() {
 			public void run() {
 				server.beginListen();
-			};
+			}
 		}.start();
+	}
+
+	@Override
+	protected void onSaveInstanceState(Bundle outState) {
+		super.onSaveInstanceState(outState);
+	}
+
+
+	@Override
+	protected void onRestoreInstanceState(Bundle savedInstanceState) {
+		super.onRestoreInstanceState(savedInstanceState);
 	}
 
 	private void initView() {
@@ -169,7 +182,6 @@ public class MainActivity extends FragmentActivity implements
 				listChangeColorIconWithTexts.get(0).setIconAlpha(1.0f);
 				viewPager.setCurrentItem(0, false);
 				break;
-
 			case R.id.load:
 				listChangeColorIconWithTexts.get(1).setIconAlpha(1.0f);
 				viewPager.setCurrentItem(1, false);

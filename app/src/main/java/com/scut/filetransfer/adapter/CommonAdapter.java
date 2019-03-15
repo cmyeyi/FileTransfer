@@ -18,8 +18,6 @@ public abstract class CommonAdapter<T> extends BaseAdapter {
 		this.context = context;
 		this.list = list;
 		this.layoutId = layoutId;
-
-
 	}
 
 	@Override
